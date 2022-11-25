@@ -1,0 +1,15 @@
+{
+  "name": "ecmasript6tutorial",
+  "version": "1.0.0",
+  "description": "Understanding ECMAScript 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ECMAScript",
+    "6"
+  ],
+  "author": "Andrea M",
+  "license": "MIT"
+}
